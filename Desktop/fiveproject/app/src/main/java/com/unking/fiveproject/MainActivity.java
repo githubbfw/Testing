@@ -1,4 +1,4 @@
-package com.unking.threecording;
+package com.unking.fiveproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,14 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
-        //新修改了代码
-        //改动了代码
-        //改动了代码
-        //新修改了代码
-        //改动了代码
-        //改动了代码
 
 
     }
